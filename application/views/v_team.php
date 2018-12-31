@@ -153,24 +153,6 @@
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div id="team7" class="jm-team" onclick="openModalTeam(this.id)">
-						<img src="public/img/team/team7.jpg"/>
-						<h2>Shigehiro Kasai</h2>
-						<p>Financial Officer</p>
-						<div class="jm-tea__contenido">
-							<p>For many years, Kasai has worked in the financial department of the ITOCHU Corporation, a 
-								general trading company. While in Japan, he engaged in managing and fostering company 
-								investments, and facilitated corporate revitalization (including M&A) using the 
-								loan-factoring function. Overseas, he established and fostered non-basks (leasing companies). 
-								After leaving the company in 2015, Kasai participated in the management of GBS, Co., Ltd., 
-								which engaged in battery development, by using the experience he had accumulated in the 
-								finance field. Since 2017, he has filled the role of Chief Financial Officer of PJP Eye, 
-								where he uses his financial acumen and his wide network to this day. </p>
-						</div>
-						<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect jm-button">Read more</button>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div id="team8" class="jm-team" onclick="openModalTeam(this.id)">
 						<img src="public/img/team/team8.jpg"/>
 						<h2>Kyushu University</h2>

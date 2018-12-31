@@ -139,17 +139,6 @@
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div id="team7" class="jm-team" onclick="openModalTeam(this.id)">
-						<img src="public/img/team/team7.jpg"/>
-						<h2>笠井繁裕</h2>
-						<p>財務執行役員</p>
-						<div class="jm-tea__contenido">
-							<p>長年、総合商社伊藤忠商事（株）金融部門に在籍し、国内では、投資先の管理・育成、ローン・ファクタリング機能を活用した企業再生（M&A含）、海外ではノンバンク（リース会社）の設立・育成に従事。 2015年退社後金融分野の経験を活かし、バッテリー開発会社GBSの経営に参画すると共に、2017年よりPJP Eye社のファイナンスのみならずその幅広い人脈を活かし、財務執行役員に就任</p>
-						</div>
-						<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect jm-button">Read more</button>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div id="team8" class="jm-team" onclick="openModalTeam(this.id)">
 						<img src="public/img/team/team8.jpg"/>
 						<h2>国立大学法人九州大学</h2>
