@@ -24,17 +24,17 @@ class Contact_jp extends CI_Controller {
 			$type 		    = $this->input->post('Type');
 			$interest 	    = $this->input->post('Interest');
 			$configGmail = array('protocol'  => 'smtp',
-			                     'smtp_host' => 'mail.testingsite.host',
+			                     'smtp_host' => 'mail.pjpeye.tokyo',
 			                     'smtp_port' => 587,
-			                     'smtp_user' => 'benitan@testingsite.host',
-			                     'smtp_pass' => 'B3n1t4n',
+			                     'smtp_user' => 'info@pjpeye.tokyo',
+			                     'smtp_pass' => 'Hosting2018!',
 			                     'mailtype'  => 'html',
 			                     'charset'   => 'utf-8',
 			                     'newline'   => "\r\n");    
 			$this->email->initialize($configGmail);
 			$this->email->from('pjp@testingsite.host');
-			// $this->email->to('jose.minayac15@gmail.com');
-			$this->email->to('general@pjpeye.tokyo,jt@pjpeye.tokyo');
+			$this->email->to('jose.minayac15@gmail.com');
+			// $this->email->to('general@pjpeye.tokyo,jt@pjpeye.tokyo');
 			$this->email->subject('PJP - 新しいメッセージ');
 			$texto = '<!DOCTYPE html>
 			                <html>
@@ -44,7 +44,7 @@ class Contact_jp extends CI_Controller {
 			                                <td style="background-color: #000000;width: 100%;">
 			                                    <table width="500" cellspacing="0" cellpadding="0" border="0" style="background-color: #000000;padding: 5px 20px;">
 			                                        <tr>
-														<td><a href="#"><img src="http://testingsite.host/pjp/public/img/logo/logo.png" width="80" alt="alternative text" border="0" style="display: block;"></a></td>
+														<td><a href="#"><img src="http://pjpeye.tokyo/public/img/logo/logo.png" width="80" alt="alternative text" border="0" style="display: block;"></a></td>
 													</tr>
 			                                    </table>
 			                                </td>
@@ -132,13 +132,13 @@ class Contact_jp extends CI_Controller {
 			$type 		    = $this->input->post('Type');
 			$interest 	    = $this->input->post('Interest');
 			$configGmail = array('protocol'  => 'smtp',
-			                     'smtp_host' => 'mail.testingsite.host',
+			                     'smtp_host' => 'mail.pjpeye.tokyo',
 			                     'smtp_port' => 587,
-			                     'smtp_user' => 'benitan@testingsite.host',
-			                     'smtp_pass' => 'B3n1t4n',
+			                     'smtp_user' => 'info@pjpeye.tokyo',
+			                     'smtp_pass' => 'Hosting2018!',
 			                     'mailtype'  => 'html',
 			                     'charset'   => 'utf-8',
-			                     'newline'   => "\r\n");    
+			                     'newline'   => "\r\n");   
 			$this->email->initialize($configGmail);
 			$this->email->from('general@pjpeye.tokyo');
 			$this->email->to($email);
@@ -152,7 +152,7 @@ class Contact_jp extends CI_Controller {
 			                                <td style="background-color: #000000;width: 100%;">
 			                                    <table width="500" cellspacing="0" cellpadding="0" border="0" style="background-color: #000000;padding: 5px 20px;">
 			                                        <tr>
-														<td><a href="#"><img src="http://testingsite.host/pjp/public/img/logo/logo.png" width="80" alt="alternative text" border="0" style="display: block;"></a></td>
+														<td><a href="#"><img src="http://pjpeye.tokyo/public/img/logo/logo.png" width="80" alt="alternative text" border="0" style="display: block;"></a></td>
 													</tr>
 			                                    </table>
 			                                </td>
