@@ -37,7 +37,7 @@
 			</div>
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
-					<li class="active"><a class="jm-link" href="index.html">Home</a></li>
+					<li class="active"><a class="jm-link" href="Home">Home</a></li>
 					<li><a class="jm-link" href="About">About us</a></li>
 					<li><a class="jm-link" href="Patent">Patent</a></li>
 					<li><a class="jm-link" href="Product">Products</a></li>
@@ -46,7 +46,7 @@
 					<li><a class="jm-link" href="Next">Laboratory6</a></li>
 					<li><a class="jm-link" href="Contact">Contact</a></li>
 					<li><a class="jm-idioma" href="Home"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="Home_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="Home_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>
@@ -100,14 +100,14 @@
 				<div class="jm-text--parallax jm-color--black">
 					<h2>Products</h2>
 					<p>Here at PJP Eye, we produce a carbon battery as sustainable LIB (lithium ion battery) that carries the essence of green energy under the Cambria Eye© brand. Since Cambria Eye© does not include any rare metals at all, it avoid resource restriction as much as possible. Our original carbon and other materials with low environmental impact are used in cathode and anode material. Two lineup is available, both of which have tremendously high recycling capabilities.</p>
-					<a href="products.html" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect jm-button jm-button--defaut">Learn More</a>
+					<a href="Product" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect jm-button jm-button--defaut">Learn More</a>
 				</div>
 			</div>
 		</div>
 	</section>
 	<section class="jm-section jm-gris">
 		<div class="jm-container">
-			<div class="jm-title">
+			<div class="jm-title js-scroll">
 				<p><i class="fa fa-quote-left"></i><span>Our passion for sustainable development will never allow our journey to end</span><i class="fa fa-quote-right"></i></p>
 			</div>
 		</div>
@@ -180,9 +180,9 @@
     <script src="<?php echo RUTA_PLUGINS?>bootstrap/js/bootstrap.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/bootstrap-select.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/i18n/defaults-es_ES.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>mdl/material.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>toaster/toastr.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_JS?>js-scroll-flow.js?v=<?php echo time();?>"></script>

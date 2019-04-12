@@ -46,7 +46,7 @@
 					<li><a class="jm-link" href="Next_jp">Laboratory6</a></li>
 					<li><a class="jm-link" href="Contact_jp">お問合せ</a></li>
 					<li><a class="jm-idioma" href="Team"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="Team_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="Team_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>
@@ -173,6 +173,7 @@
 						<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 							<div class="panel-body">
 								<p>特別顧問　元警視庁警視監　大貫啓行 <a href="http://kiki110.org/greeting/onuki_profile.pdf" target="_blank">(NPO法人危機対応能力開発機構 理事長)</a></p>
+								<p>塩﨑　崇文( 監査役 )</p>
 							</div>
 						</div>
 					</div>

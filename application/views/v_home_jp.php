@@ -40,13 +40,13 @@
 					<li class="active"><a class="jm-link" href="Home_jp">Home</a></li>
 					<li><a class="jm-link" href="About_jp">会社案内</a></li>
 					<li><a class="jm-link" href="Patent_jp">知財/特許</a></li>
-					<li><a class="jm-link" href="Products_jp">製品紹介</a></li>
+					<li><a class="jm-link" href="Product_jp">製品紹介</a></li>
 					<li><a class="jm-link" href="Team_jp">チーム</a></li>
 					<li><a class="jm-link" href="Release_jp">プレスリリース</a></li>
 					<li><a class="jm-link" href="Next_jp">Laboratory6</a></li>
 					<li><a class="jm-link" href="Contact_jp">お問合せ</a></li>
 					<li><a class="jm-idioma" href="Home"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="Home_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="Home_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>
@@ -100,7 +100,7 @@
 				<div class="jm-text--parallax jm-color--black">
 					<h2>製品紹介</h2>
 					<p>【サステイナブルなカーボンバッテリーTechnology】 PJP Eyeでは、Greenなエネルギーを本質としてサステイナブルなLIB（リチウムイオンバッテリー）としてカーボンバッテリーをCambria Eye©ブランドとして提供しています。 Cambria Eye©は、レアメタルを一切含ままないため資源制約を受けにくく、環境負荷の低い 弊社オリジナルのカーボン・材料を、正極材料、負極材料に採用しています。 弊社では2タイプをラインアップしています。 これらは、リサイクル性能が飛びぬけて高いことを示しております。</p>
-					<a href="products_jp.html" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect jm-button jm-button--defaut">Learn More</a>
+					<a href="Product_jp" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect jm-button jm-button--defaut">Learn More</a>
 				</div>
 			</div>
 		</div>
@@ -183,9 +183,9 @@
     <script src="<?php echo RUTA_PLUGINS?>bootstrap/js/bootstrap.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/bootstrap-select.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/i18n/defaults-es_ES.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>mdl/material.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>toaster/toastr.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_JS?>js-scroll-flow.js?v=<?php echo time();?>"></script>

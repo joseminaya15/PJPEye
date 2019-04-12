@@ -45,7 +45,7 @@
 					<li><a class="jm-link" href="Next">Laboratory6</a></li>
 					<li class="active"><a class="jm-link" href="Contact">Contact</a></li>
 					<li><a class="jm-idioma" href="Contact"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="Contact_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="Contact_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>

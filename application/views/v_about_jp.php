@@ -46,7 +46,7 @@
 					<li><a class="jm-link" href="Next_jp">Laboratory6</a></li>
 					<li><a class="jm-link" href="Contact_jp">お問合せ</a></li>
 					<li><a class="jm-idioma" href="About"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="About_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="About_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>
@@ -242,9 +242,9 @@
     <script src="<?php echo RUTA_PLUGINS?>bootstrap/js/bootstrap.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/bootstrap-select.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/i18n/defaults-es_ES.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>mdl/material.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>toaster/toastr.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_JS?>js-scroll-flow.js?v=<?php echo time();?>"></script>

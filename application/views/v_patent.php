@@ -46,7 +46,7 @@
 					<li><a class="jm-link" href="Next">Laboratory6</a></li>
 					<li><a class="jm-link" href="Contact">Contact</a></li>
 					<li><a class="jm-idioma" href="Patent"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="Patent_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="Patent_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>

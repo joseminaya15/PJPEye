@@ -27,7 +27,7 @@ class Contact extends CI_Controller {
 			                     'smtp_host' => 'mail.pjpeye.tokyo',
 			                     'smtp_port' => 587,
 			                     'smtp_user' => 'info@pjpeye.tokyo',
-			                     'smtp_pass' => 'Hosting2018!',
+			                     'smtp_pass' => 'Hosting2019!',
 			                     'mailtype'  => 'html',
 			                     'charset'   => 'utf-8',
 			                     'newline'   => "\r\n");    
@@ -126,7 +126,7 @@ class Contact extends CI_Controller {
 			                     'smtp_host' => 'mail.pjpeye.tokyo',
 			                     'smtp_port' => 587,
 			                     'smtp_user' => 'info@pjpeye.tokyo',
-			                     'smtp_pass' => 'Hosting2018!',
+			                     'smtp_pass' => 'Hosting2019!',
 			                     'mailtype'  => 'html',
 			                     'charset'   => 'utf-8',
 			                     'newline'   => "\r\n");   

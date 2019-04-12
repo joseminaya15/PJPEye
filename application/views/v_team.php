@@ -46,7 +46,7 @@
 					<li><a class="jm-link" href="Next">Laboratory6</a></li>
 					<li><a class="jm-link" href="Contact">Contact</a></li>
 					<li><a class="jm-idioma" href="Team"><span>English</span></a></li>
-					<li><a class="jm-idioma" href="Team_jp"><span>Japanesse</span></a></li>
+					<li><a class="jm-idioma" href="Team_jp"><span>Japanese</span></a></li>
 				</ul>
 			</div>
 	  	</div>
@@ -100,7 +100,7 @@
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div id="team3" class="jm-team" onclick="openModalTeam(this.id)">
 						<img src="public/img/team/team3.jpg"/>
-						<h2>Daigen Fukai</h2>
+						<h2>Taigen Fukai</h2>
 						<p>Managing Director</p>
 						<div class="jm-tea__contenido">
 							<p>After working at Obayashi Corporation, a major construction company, he became the second president for Ikeda Corporation, 
@@ -189,6 +189,7 @@
 					<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 						<div class="panel-body">
 							<p>Hiroyuki Onuki Special Advisor <a href="http://kiki110.org/greeting/onuki_profile.pdf" target="_blank">(Board Member, Disaster-Prevention Strategy System with Dignity NPO, former Senior Commissioner of Tokyo Metropolitan Police )</a></p>
+							<p>Mr. Takafumi Shiozaki( Corporate Auditor )</p>
 						</div>
 					</div>
 				</div>
@@ -292,9 +293,9 @@
     <script src="<?php echo RUTA_PLUGINS?>bootstrap/js/bootstrap.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/bootstrap-select.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>bootstrap-select/js/i18n/defaults-es_ES.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
-    <script src="<?php echo RUTA_PLUGINS?>mdl/jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
+    <script src="<?php echo RUTA_PLUGINS?>jarallax/dist/jarallax.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>mdl/material.min.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_PLUGINS?>toaster/toastr.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_JS?>js-scroll-flow.js?v=<?php echo time();?>"></script>
